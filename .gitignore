@@ -2440,7 +2440,7 @@ compiled/
 ### replit template
 # Replit config file
 .replit
-
+idea
 # Replit Nix config file
 replit.nix
 
