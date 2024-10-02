@@ -59,7 +59,7 @@
 }
 
 .like-icon.is-liked .heart {
-  animation: bounce 0.3s ease-in 0.1s 2 alternate;
+  animation: bounce 0.3s ease-in 0.1s 1;
 }
 
 .like-icon .sparks {
@@ -67,7 +67,7 @@
 }
 
 .like-icon.is-liked .sparks {
-  animation: flash 0.3s ease-in 0.3s 2 alternate;
+  animation: flash 0.3s ease-in 0.3s 1;
 }
 
 @keyframes pointing {
